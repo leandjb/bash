@@ -1,5 +1,5 @@
 #!/bin/bash
-#AUTHOR: Leandro Barros\
+#AUTHOR: Leandro Barros Ortiz
 #EMAIL: leandjb@gmail.com
 
 #SCRIPT PARA RENOMBRAR ARCHIVOS DWH
