@@ -40,6 +40,7 @@ do
   #Creamos el nombre del archivo renombrado
   NEW_NAME="ADQ_DWH_${DWH}_${DATE}.csv"
 
+
   #Renombramos el archivo
   mv $FILE $NEW_NAME
 
@@ -47,3 +48,5 @@ do
   mv $NEW_NAME ../OUT
 
 done
+
+echo End Process
